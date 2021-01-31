@@ -1,1 +1,1 @@
-Dice - Roll
+Rolls a Dice using Tkinter
